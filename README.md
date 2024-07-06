@@ -17,7 +17,7 @@ git clone https://github.com/saksham342/passwordCracker.git
 cd passwordCracker
 
 3. Run the script:
-python password_cracker.py
+python3 password_cracker.py
 
 4. Follow the prompts to enter the hashed password and select the algorithm.
 
