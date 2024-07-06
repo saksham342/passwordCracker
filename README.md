@@ -11,7 +11,7 @@ This Python script is designed to crack hashed passwords using various hashing a
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/your-username/password-cracker.git
+git clone https://github.com/saksham342/passwordCracker.git
 
 2. Navigate to the repository directory:
 cd password-cracker
